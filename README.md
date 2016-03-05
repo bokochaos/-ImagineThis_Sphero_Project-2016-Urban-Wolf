@@ -13,4 +13,5 @@ This application has implicit exercise, but also helps keep agility and mental a
 So, #ImagineThis dream come true a month from today. This, a part of my #MSPLife, a part of the #MSPSpheroPilot. #Imagine a day where chasing a small, randomly-rolling ball gets you that much closer with your friends.
 
 Updates and Notes:
+
 Here is where I'll keep some updates on changes I am making on this project.
